@@ -19,8 +19,5 @@ Details of what this notebook covers is listed below:
     - Visualization of the results using plots
 
 We have **492 Apple** Instances and **490 Banana** Instances (Images) widely spaced apart per their **Red** and **Green** values as seen below:
-<img src="images/Apples-Bananas-Red-Green-Values.jpg">
-
-By using the Flux Model, we are able to classify these instances into 2 Classes - **"0" for Apples** (1 to 492) and **"1" for Bananans** (493 to 982) as seen below:
 
 By using the Flux Model, we are able to classify these instances into 2 Classes - **"0" for Apples** (1 to 492) and **"1" for Bananans** (493 to 982) as seen below:
