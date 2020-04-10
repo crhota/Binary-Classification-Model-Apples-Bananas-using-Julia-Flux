@@ -20,8 +20,8 @@ Details of what this notebook covers is listed below:
 
 We have **492 Apple** Instances and **490 Banana** Instances (Images) widely spaced apart per their **Red** and **Green** values. Refer below image:
 
-<img src="images/Input1.png">
+<img src="images/Input.JPG">
 
 By using the Flux Model, we are able to classify these instances into 2 Classes - **"0" for Apples** (1 to 492) and **"1" for Bananans** (493 to 982). Refer below image:
 
-<img src="images/Prediction.jpg"> 
+<img src="images/Prediction.JPG"> 
