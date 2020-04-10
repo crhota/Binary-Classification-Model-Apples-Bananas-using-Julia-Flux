@@ -1,4 +1,4 @@
-# Binary-Classification-Model-Apples-Bananas-using-Julia-Flux
+# Binary-Classification-Model-using-Julia-Flux
 
 I did the "**Deep Learning with Flux**" course provided by **Julia Academy** (https://juliaacademy.com/courses/). I express my sincere gratitude to **Dr. Matt Bauman** for presenting this course and sharing the associated Jupyter Notebook. This notebook is associated with first lecture "**Introduction to Flux**" of the mentioned course.
 
